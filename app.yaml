@@ -1,0 +1,5 @@
+kind: wasmer.io/App.v0
+name: fish-audio-studio
+package: .
+capabilities:
+  instaboot: true

@@ -1,0 +1,6 @@
+{
+  "name": "Fish Audio Voiceover Studio",
+  "description": "Expressive text-to-speech voiceover generator using Fish Audio S2.1 Pro on OpenRouter with emotion tags, smart script chunking, voice browser, audio merging, and IndexedDB storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
